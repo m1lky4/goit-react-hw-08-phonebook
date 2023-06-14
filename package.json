@@ -2,7 +2,7 @@
   "name": "goit-react-hw-08-phonebook",
   "version": "0.1.0",
   "private": true,
-  "homepage": "goit-react-hw-08-phonebook",
+  "homepage": "https://m1lky4.github.io/goit-react-hw-08-phonebook/",
   "dependencies": {
     "@chakra-ui/react": "^2.7.0",
     "@emotion/react": "^11.11.1",
